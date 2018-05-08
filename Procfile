@@ -1,0 +1,1 @@
+web: java -jar target/app_server-0.0.1-SNAPSHOT-shaded.jar
